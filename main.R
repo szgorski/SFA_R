@@ -1,11 +1,11 @@
-# Original description of the algorithm by Patrick Schäfer, Ulf Leser (2017) 
+# Original description of the algorithm by Patrick Schaefer, Ulf Leser (2017) 
 # in "Fast and Accurate Time Series Classification with WEASEL" 
 # (Word ExtrAction for time SEries cLassification), 
 # DOI: 10.1145/3132847.3132980, arXiv:1701.07681
 
-# This implementation by Szymon Górski (2021 - 2022)
+# This implementation by Szymon Gorski (2021 - 2022)
 
-# Original implementation of WEASEL algorithm by Patrick Schäfer (2017 - 2021) 
+# Original implementation of WEASEL algorithm by Patrick Schaefer (2017 - 2021) 
 # under GNU General Public License v3.0,
 # https://github.com/patrickzib/SFA
 

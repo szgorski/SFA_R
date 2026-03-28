@@ -10,10 +10,6 @@ All data must be provided in a form:
 
 *label<sub>1</sub> value<sub>1,1</sub> value<sub>1,2</sub> … value<sub>1,n</sub>*<br />*label<sub>2</sub> value<sub>2,1</sub> value<sub>2,2</sub> … value<sub>2,n</sub>*<br />…<br />*label<sub>m</sub> value<sub>m,1</sub> value<sub>m,2</sub> … value<sub>m,n</sub>*
 
-### TODO
-
-The solution will be improved in the future to decrease the amount of data stored and possibly the computation time by redesigning the sequence of operations.
-
 ### Links
 
  1. Patrick Schäfer, Ulf Leser (2017), "Fast and Accurate Time Series Classification with WEASEL", <br />[DOI: 10.1145/3132847.3132980](https://doi.org/10.1145/3132847.3132980), [arXiv:1701.07681](https://arxiv.org/abs/1701.07681)
